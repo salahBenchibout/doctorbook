@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793615916946",
+    "project_id": "doctorbook-31ca1",
+    "storage_bucket": "doctorbook-31ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793615916946:android:0c6be78c49f1961a362b4b",
+        "android_client_info": {
+          "package_name": "com.example.doctorbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793615916946-bvpvvhn69bn22qo2hmrtp893jqlnakoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwN3jruSH8TEXsDqLnPSJSn8FVhmlCT98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793615916946-bvpvvhn69bn22qo2hmrtp893jqlnakoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
